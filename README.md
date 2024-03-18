@@ -106,9 +106,6 @@ clean android_tests -DdeviceHost=${DEVICEHOST}
 <img src="images/AllureTestOps.svg" width="25" height="25" alt="AllureTestOps"/> <a name="AllureTestOps"><i>Интеграция с Allure TestOps</i></a>
 </h1>
 
-<a target="_blank" href="https://allure.autotests.cloud/launch/15409/tree">**Проект в TestOps**</a>
-<p align="center">  
-
 
 
 
